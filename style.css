@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: rgb(15, 116, 204);
+
+}
+
+
+.top-banner {
+    background-image: url('./images/donation13.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 726px;
+    width: 100%;
+
+}
+
+.banner {
+    padding-top: 200px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.banner-title {
+    color: rgb(236, 236, 225);
+}
+
+.banner-sub-title {
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+
+.banner-text {
+    color: azure;
+}
+
+.link-button {
+    background-color: rgb(243 106 106);
+    margin-top: 17px;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+h2 {
+    color: black;
+}
+
+h5 {
+    color: rgb(230, 124, 124);
+    text-align: center;
+}
+
+.donation-section {
+    padding: 80px 0;
+}
+
+.section-title {
+    margin-bottom: 20px;
+}
+
+.donate-subtitle {
+    width: 855px;
+    margin: 0 auto;
+}
+
+.donate-haeding {
+    font-size: 49px;
+
+}
+
+.money {
+    display: flex;
+    justify-content: center;
+}
+
+.single-money {
+    padding: 35px;
+}
+
+.tk {
+    color: black;
+}
+
+.donate {}
+
+.amount {}
+
+.plan {
+    color: rgb(119, 104, 104);
+    border: rgb(236, 236, 225);
+}
+
+#food {
+    background-color: bisque;
+    margin: 20px
+    
+    
+}
+
+#shelter {
+    background-color: gainsboro;
+    margin: 20px
+}
+
+#education {
+    background-color: pink;
+    margin: 20px
+}
+
+.helping-plan {
+    font-size: medium;
+
+
+}
+
+.flexible-container {
+    display: flex;
+    padding: 40px 40px 40px 40px;
+
+}
